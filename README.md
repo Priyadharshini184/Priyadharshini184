@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyadharshini</h1>
-<h3 align="center">Computer Science Undergraduate | Aspiring AI|ML Engineer</h3>
+<h3 align="center">Computer Science Undergraduate | Aspiring Data Analyst</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 - 🎓 B.E. Computer Science Engineering, Anna University Regional Campus Coimbatore  
 - 💡 Strong interest in Data Structures, System Design & Machine Learning  
 - 📚 Currently strengthening fundamentals in DSA, DBMS, OS & Algorithms  
-- 🎯 Career Goal: Software Development / Core CS Roles  
+- 🎯 Career Goal: Data Analyst / Core CS Roles  
 - 🌍 Open to global opportunities  
 
 ---
@@ -30,7 +30,9 @@
 ### Tools & Technologies
 - Git & GitHub  
 - Oracle SQL  
-- VS Code  
+- VS Code
+- Figma
+- Canva
 
 ---
 ## 📌 Currently Learning
